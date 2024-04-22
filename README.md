@@ -16,5 +16,9 @@
 | Monitoring | Grafana, Prometheus, Thanos, Loki, Tempo |
 | Tools | Confluence, Jira, Slack, Telegram |
 
+## My Github
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SkylerPark&show_icons=true&hide=stars,issues" alt="SkylerPark" /></p>
+![SkylerPark' GitHub stats](https://github-readme-stats.vercel.app/api?username=SkylerPark&hide=contribs,prs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SkylerPark&layout=compact)
+
+
