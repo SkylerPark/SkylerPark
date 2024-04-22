@@ -9,5 +9,4 @@
 🌱 I’m currently learning ...
 - go
 
-<p> <img align=“center” src="https://github-readme-stats.vercel.app/api?username=SktlerPark&show_icons=true&hide=stars,issues"
-alt=“SktlerPark” /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SkylerPark&show_icons=true&hide=stars,issues" alt="SkylerPark" /></p>
