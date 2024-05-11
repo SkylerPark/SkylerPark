@@ -3,7 +3,7 @@
 ## Contact
 
 - [Email](skylerpark7720@gmail.com)
-- [Notion resume](https://skylerpark.notion.site/SungMin-Park-DevOps-SRE-Engineer-1f146c3ce09d489da1c705d2b1246db5?pvs=4)
+- [Notion resume]([https://skylerpark.notion.site/SungMin-Park-DevOps-SRE-Engineer-1f146c3ce09d489da1c705d2b1246db5?pvs=4](https://skylerpark.notion.site/SungMin-Park-3e5844607d724de1bb46498809d9422d?pvs=4))
 
 ## Skils
 
